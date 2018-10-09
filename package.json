@@ -19,6 +19,7 @@
   "homepage": "https://github.com/danieljoonlee/ethereum_token_tutorial#readme",
   "dependencies": {
     "bluebird": "^3.5.2",
+    "cryptiles": "^4.1.2",
     "dotenv": "^5.0.1",
     "truffle-hdwallet-provider": "0.0.3",
     "zeppelin-solidity": "1.7.0"
